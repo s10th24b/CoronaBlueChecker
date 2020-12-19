@@ -34,21 +34,21 @@ Corona Blue Test code site: [**Go to Link**](https://github.com/blogSoul/coronab
 
 - ### 발표자료
 
-  [**발표자료 보러가기**](https://github.com/s10th24b/coronabluechecker/blob/master/README/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx)
+  [**발표자료 보러가기**](https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx)
 
 - ### UI SCREEN
-   <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A41.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오2.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오2_1.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오3.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오4.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오5.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오6.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오7.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오8.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오9.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오10.PNG" width="200" height="300" />
-  <img src="https://github.com/s10th24b/coronabluechecker/blob/master/README/img/시나리오11.PNG" width="200" height="300" />
+   <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A41.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A42.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A42_1.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A43.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A44.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A45.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A46.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A47.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A48.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A49.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A410.png" width="200" height="300" />
+  <img src="https://github.com/s10th24b/CoronaBlueChecker/blob/master/README/img/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A411.png" width="200" height="300" />
 
 ## :footprints: UPGRADE
 
